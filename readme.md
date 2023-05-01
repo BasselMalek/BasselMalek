@@ -22,7 +22,7 @@ My name is Bassel and I am a self-taught developer with about 3 years of experie
 <br>
 <h2 align="center">Check out some of my recent projects:</h2>
 
-
+- A recent team project where we created a dynamic movie info website: [[Repo](https://github.com/BasselMalek/obscure-site-private)].
 - My personal take on interfacing with the Samsung GearVR Contoller on PC: [[Repo](https://github.com/BasselMalek/GearVR-controller-win10)].
 - My archive of attempts at cracking competitve programming contests (hopefully I can pick it up back soon!): [[Repo](https://github.com/BasselMalek/competitive-programming)/[CF profile](https://codeforces.com/profile/Struct-pointerception)].
 - My current run through The Odin Project with the assignments: [[Repo](https://github.com/BasselMalek/odin-project)].
