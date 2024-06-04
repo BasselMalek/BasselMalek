@@ -1,7 +1,7 @@
 <h2 align="center">Introduction</h2>
 
 <br>
-My name is Bassel and I am a self-taught developer and I've writing in various languages since the 9th grade! I'm currently learning cross-platform development using React Native and Expo. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
+My name is Bassel and I am a self-taught developer and I've been writing in various languages since the 9th grade! I'm currently learning cross-platform development using React Native and Expo. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
 <br><br>
 
