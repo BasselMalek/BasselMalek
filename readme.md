@@ -19,11 +19,12 @@ My name is Bassel and I am a self-taught developer and I've been writing in vari
 <br>
 <h2 align="center">Check out some of my recent projects:</h2>
 
+-   A React Native music practice app that includes a tuner, metronome, and practice journaling system for musicians: [[Repo](https://github.com/BasselMalek/NoteBuddy)].
+-   My personal take on interfacing with the Samsung GearVR Contoller on PC: [[Repo](https://github.com/BasselMalek/GearVR-controller-win10)].
+-   My archive of attempts at cracking competitve programming contests (hopefully I can pick it up back soon!): [[Repo](https://github.com/BasselMalek/competitive-programming)/[CF profile](https://codeforces.com/profile/Struct-pointerception)].
 -   A team project where we created a fully functional money transfer/payment app demo: [[Repo](https://github.com/ZiadWaleed2003/Money-Transferring-App)].
 -   A team project where we created a fully functional workforce mangament and daily attendance software: [[Repo](https://github.com/ZiadWaleed2003/Task-Management)].
 -   A team project where we created a dynamic movie info website: [[Repo](https://github.com/BasselMalek/obscure-site-private)].
--   My personal take on interfacing with the Samsung GearVR Contoller on PC: [[Repo](https://github.com/BasselMalek/GearVR-controller-win10)].
--   My archive of attempts at cracking competitve programming contests (hopefully I can pick it up back soon!): [[Repo](https://github.com/BasselMalek/competitive-programming)/[CF profile](https://codeforces.com/profile/Struct-pointerception)].
 -   A handy Python/Ard-C script I use when interfacing my arduino with my computer: [[Repo](https://github.com/BasselMalek/AP-Music-Player)].
 
 <br><br>
