@@ -1,11 +1,10 @@
 <h2 align="center">Introduction</h2>
 
 <br>
-My name is Bassel and I am a self-taught developer and I've been writing in various languages since the 9th grade! I'm currently learning cross-platform development using React Native and Expo. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
+My name is Basel and I am a self-taught developer and I've been writing in various languages since the 9th grade! I'm currently studying massively parallel programming with CUDA and learning Full-stack dev using MERN. Have a look through my repositories and feel free to reach out if you want to discuss anything that you see here.
 
 <br><br>
 
--   🔭 I’m currently working on mobile app that includes a tuner/metronome/practice calendar for musicians called NoteBuddy.
 -   🌱 I’m currently reviewing my knowledge on competitive programming and general problem-solving.
 -   ⚡ Fun fact: an avid guitar player. I really like prog and grunge!
 
