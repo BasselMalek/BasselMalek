@@ -18,6 +18,7 @@ My name is Basel and I am a self-taught developer and I've been writing in vario
 <br>
 <h2 align="center">Check out some of my recent projects:</h2>
 
+-   A React Native alarm app with wake-up puzzles, boosters, and features to help you wake up every time: [[Repo](https://github.com/BasselMalek/nudge-puzzle-alarm)].
 -   A React Native music practice app that includes a tuner, metronome, and practice journaling system for musicians: [[Repo](https://github.com/BasselMalek/NoteBuddy)].
 -   My personal take on interfacing with the Samsung GearVR Contoller on PC: [[Repo](https://github.com/BasselMalek/GearVR-controller-win10)].
 -   My archive of attempts at cracking competitve programming contests (hopefully I can pick it up back soon!): [[Repo](https://github.com/BasselMalek/competitive-programming)/[CF profile](https://codeforces.com/profile/Struct-pointerception)].
